@@ -1,0 +1,28 @@
+name: slick
+favicon: null
+layout_spectrum: 0.10888877185061574
+typography_spectrum: 0.8938644416630268
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5316403354518116
+  lightness: 0.7510689054615796
+  saturation: 0.4159071431495249
+  rhythmicContrast: 0.8323388705030084
+purpose: []
